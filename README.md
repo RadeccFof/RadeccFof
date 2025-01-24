@@ -11,8 +11,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
           
           
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953471248652976151/1006001827411673098/8bb8287968b7119884060e85381014c1.jpg">
-</div>
+
   
   ##
  
